@@ -1,3 +1,3 @@
 # KDtree-Quadtree
 
-I experimented with those two alogrithms to practice my skills in Python and OOP.
+I experimented with those two space-partitioning alogrithms to practice my skills in Python and OOP.
