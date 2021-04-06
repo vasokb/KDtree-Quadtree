@@ -1,2 +1,3 @@
 # KDtree-Quadtree
-Implementation of KDtree and Quadtree algorithms.
+
+I experimented with those two alogrithms to practice my skills in Python and OOP.
